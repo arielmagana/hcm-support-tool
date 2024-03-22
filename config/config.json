@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "podUrl": "client.oraclecloud.com",
+        "subscription": "AzureSubs",
+        "vaultSuffix": "dev",
+        "secretSuffix": "condev"
+    },
+    "estg": {
+        "podUrl": "client.oraclecloud.com",
+        "subscription": "AzureSubs",
+        "vaultSuffix": "tst",
+        "secretSuffix": "evdb-test"
+    },
+    "tst": {
+        "podUrl": "client.oraclecloud.com",
+        "subscription": "AzureSubs",
+        "vaultSuffix": "tst",
+        "secretSuffix": "evdb-test"
+    }
+}

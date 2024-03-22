@@ -1,0 +1,17 @@
+[
+    {
+        "user": "OralceHCMUser1",
+        "guid": "",
+        "vaultSuffix": "services"
+    },
+    {
+        "user": "OralceHCMUser2",
+        "guid": "",
+        "vaultSuffix": "services"
+    },
+    {
+        "user": "OralceHCMUser3",
+        "guid": "",
+        "vaultSuffix": "techteam"
+    }
+]
